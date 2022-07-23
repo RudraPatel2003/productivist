@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <br>
+    <a href="https://productivist.netlify.app/"><img src="https://github.com/RudraPatel2003/productivist/blob/main/src/assets/icons/GitHub-logo192.png"></a>
+  <br>
+  <a href="https://productivist.netlify.app/">productivist</a>
+  <br>
+</h1>
 
-## Getting Started
+<h2 align="center">A responsive to-do list website designed on <a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>, built with <a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a>, and hosted on <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">Netlify</a>.</h2>
 
-First, run the development server:
+<p align="center">
+  <img src="https://api.netlify.com/api/v1/badges/fbf02b71-9a3e-431b-8db1-c5be2ef406b3/deploy-status" alt="Netlify deploy status">
+</p>
 
-```bash
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraPatel2003/productivist/main/src/assets/images/WebsiteImage.PNG" alt="Website image">
+ </p>
+
+## 🔨 Installation and Usage
+
+### 1. Fork the repository  
+### 2. Install dependencies
+```sh
+npm install
+```
+### 3. Start the development server
+```sh
 npm run dev
-# or
-yarn dev
+```
+### 4. Create build (if needed)
+```sh
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Design
+Original Figma design: [click here](https://www.figma.com/file/CpwFJ8KpbCVHNBCBylETCt/productivist?node-id=0%3A1)
+Color Palette (also found in [tailwind.config.js](https://github.com/RudraPatel2003/productivist/blob/main/tailwind.config.js)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+| Description | Hex Code |
+|-------------|----------|
+| Light Pink  | #FFBCD9  |
+| Pink        | #F8ABCC  |
+| Dark Maroon | #40001C  |
+| Grey Pink   | #A16E84  |
+| Grey        | #47373E  |
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🤝 Contributing
+Pull requests are welcome!
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📖 License
+[MIT](https://choosealicense.com/licenses/mit/)

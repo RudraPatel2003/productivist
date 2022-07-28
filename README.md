@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h2 align="center">A responsive to-do list website designed on <a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>, built with <a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a>, and hosted on <a href="https://vercel.com/" target="_blank" rel="noreferrer">Vercek</a>.</h2>
+<h2 align="center">A responsive to-do list website designed on <a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>, built with <a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a>, and hosted on <a href="https://vercel.com/" target="_blank" rel="noreferrer">Vercel</a>.</h2>
 
 <p align="center">
   <img src="https://api.netlify.com/api/v1/badges/fbf02b71-9a3e-431b-8db1-c5be2ef406b3/deploy-status" alt="Netlify deploy status">

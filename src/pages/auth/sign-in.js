@@ -16,7 +16,11 @@ export default function SignIn({ providers }) {
             <div key={provider.name}>
               <button
                 className="text-dark-maroon font-bold outline outline-2 py-4 px-8"
-                onClick={() =>signIn(provider.id, { callbackUrl: "http://localhost:3000" })}>
+                onClick={() =>
+                  signIn(provider.id, {
+                    callbackUrl: "https://productivist.vercel.app/",
+                  })
+                }>
                 Sign in with {provider.name}
               </button>
             </div>

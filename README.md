@@ -36,7 +36,7 @@ npm run build
 
 ## 🎨 Design
 
-Original Figma design: [click here](https://www.figma.com/file/CpwFJ8KpbCVHNBCBylETCt/productivist?node-id=0%3A1)
+Original Figma design: [click here](https://www.figma.com/file/CpwFJ8KpbCVHNBCBylETCt/productivist?node-id=0%3A1)  
 Color Palette (also found in [tailwind.config.js](https://github.com/RudraPatel2003/productivist/blob/main/tailwind.config.js)
 
 | Description | Hex Code |

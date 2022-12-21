@@ -28,7 +28,7 @@ export default function ToDoList() {
         savedToDoList = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
       }
 
-      if (savedToDoList.length > 0) setToDoList(savedToDoList);
+      if (savedToDoList?.length > 0) setToDoList(savedToDoList);
 
       isDataRetrieved.current = true;
     };
